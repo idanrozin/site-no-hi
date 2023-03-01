@@ -13,7 +13,7 @@ msgid "header.introduction"
 msgstr "Imagine calling someone on the phone, going _hello!_ then putting them on hold... 🤦‍♀️"
 
 msgid "example.character.neutral.name"
-msgstr "Tim"
+msgstr "Rozin"
 
 msgid "example.character.neutral.avatar-description"
 msgstr "Tim's Slack avatar"
